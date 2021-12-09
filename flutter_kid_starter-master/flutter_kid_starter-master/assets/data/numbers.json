@@ -1,0 +1,103 @@
+[
+  {
+    "number": "1",
+    "word": "One",
+    "audio": "assets/audio/kid-1.mp3"
+  },
+  {
+    "number": "2",
+    "word": "Two",
+    "audio": "assets/audio/kid-2.mp3"
+  },
+  {
+    "number": "3",
+    "word": "Three",
+    "audio": "assets/audio/kid-3.mp3"
+  },
+  {
+    "number": "4",
+    "word": "Four",
+    "audio": "assets/audio/kid-4.mp3"
+  },
+  {
+    "number": "5",
+    "word": "Five",
+    "audio": "assets/audio/kid-5.mp3"
+  },
+  {
+    "number": "6",
+    "word": "Six",
+    "audio": "assets/audio/kid-6.mp3"
+  },
+  {
+    "number": "7",
+    "word": "Seven",
+    "audio": "assets/audio/kid-7.mp3"
+  },
+  {
+    "number": "8",
+    "word": "Eight",
+    "audio": "assets/audio/kid-8.mp3"
+  },
+  {
+    "number": "9",
+    "word": "Nine",
+    "audio": "assets/audio/kid-9.mp3"
+  },
+  {
+    "number": "10",
+    "word": "Ten",
+    "audio": "assets/audio/kid-10.mp3"
+  },
+  {
+    "number": "11",
+    "word": "Eleven",
+    "audio": "assets/audio/kid-11.mpeg"
+  },
+  {
+    "number": "12",
+    "word": "Twelve",
+    "audio": "assets/audio/kid-12.mpeg"
+  },
+  {
+    "number": "13",
+    "word": "Thirteen",
+    "audio": "assets/audio/kid-13.mpeg"
+  },
+  {
+    "number": "14",
+    "word": "Fourteen",
+    "audio": "assets/audio/kid-14.mpeg"
+  },
+  {
+    "number": "15",
+    "word": "Fifteen",
+    "audio": "assets/audio/kid-15.mpeg"
+  },
+  {
+    "number": "16",
+    "word": "Sixteen",
+    "audio": "assets/audio/kid-16.mpeg"
+  },
+  {
+    "number": "17",
+    "word": "Seventeen",
+    "audio": "assets/audio/kid-17.mpeg"
+  },
+  {
+    "number": "18",
+    "word": "Eighteen",
+    "audio": "assets/audio/kid-18.mpeg"
+  },
+  {
+    "number": "19",
+    "word": "Nineteen",
+    "audio": "assets/audio/kid-19.mpeg"
+  },
+  {
+    "number": "20",
+    "word": "Twenty",
+    "audio": "assets/audio/kid-20.mpeg"
+  }
+
+]
